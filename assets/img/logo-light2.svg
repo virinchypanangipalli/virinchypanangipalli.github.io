@@ -1,0 +1,29 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="135" height="40" viewBox="0 0 135 40">
+  <!-- Gradient background -->
+  <defs>
+    <linearGradient id="logoGradient" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" style="stop-color:#6A11CB;stop-opacity:1" />
+      <stop offset="100%" style="stop-color:#2575FC;stop-opacity:1" />
+    </linearGradient>
+  </defs>
+  
+  <!-- Background -->
+  <rect width="135" height="40" rx="5" ry="5" fill="url(#logoGradient)"/>
+  
+  <!-- VR Text -->
+  <text x="10" y="28" 
+        font-family="Arial Black, sans-serif" 
+        font-weight="bold" 
+        font-size="22" 
+        fill="#FFFFFF">
+    VR
+  </text>
+  
+  <!-- Digital Text -->
+  <text x="50" y="28" 
+        font-family="Arial, sans-serif" 
+        font-size="16" 
+        fill="#FFFFFF">
+    Digital
+  </text>
+</svg>
