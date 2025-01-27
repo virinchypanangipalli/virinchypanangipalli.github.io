@@ -1,1 +1,0 @@
-# virinchypanangipalli.github.io
