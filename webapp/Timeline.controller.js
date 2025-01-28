@@ -50,10 +50,10 @@ sap.ui.define(["sap/ui/core/mvc/Controller", "sap/ui/model/json/JSONModel", "sap
 				});
 			},
 			onUserNameClick : function(oEvent) {
-				MessageToast.show(oEvent.getSource().getUserName() + " is pressed.");
+			//	MessageToast.show(oEvent.getSource().getUserName() + " is pressed.");
 			},
 			onPressItems : function(evt) {
-				MessageToast.show("The TimelineItem is pressed.");
+			//	MessageToast.show("The TimelineItem is pressed.");
 			},
 			enableScrollSelected: function (oEvent) {
 				var bSelected = oEvent.getParameter("selected");

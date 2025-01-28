@@ -1,15 +1,8 @@
 {
 	"Employees": [
+		
 		{
-			"Name": "Virinchy Panangipalli",
-			"JobTitle": "SAP BTP Development Lead / Architect",
-		"Photo": "https://media.licdn.com/dms/image/v2/C5603AQEbNv9eHbZ3ig/profile-displayphoto-shrink_400_400/profile-displayphoto-shrink_400_400/0/1601258980694?e=1743638400&v=beta&t=aUh8sL0hEiqoTwpZf9LTBaXkpWOR7QxEJZZ6pwQuRkc",
-				"Icon": "sap-icon://developer",
-			"JobResponsibilities": "Responsible for the design, development, and delivery of a comprehensive Asbestos Management Solution on SAP BTP Cloud Foundry using SAP CAP. Leading solution certification for SAP Store and overseeing stakeholder engagements.\n\nAchievements:\n- Driving solution certification for SAP Store.\n- Delivered an Asbestos Management Solution using SAP BTP and CAP.",
-			"HireDate": "Date(1688208000000)"
-		},
-		{
-			"Name": "Virinchy Panangipalli",
+			"ClientName": "IBM / Department of Defence",
 			"JobTitle": "SAP Mobile Architect",
 			"Photo": "https://media.licdn.com/dms/image/v2/C5603AQEbNv9eHbZ3ig/profile-displayphoto-shrink_400_400/profile-displayphoto-shrink_400_400/0/1601258980694?e=1743638400&v=beta&t=aUh8sL0hEiqoTwpZf9LTBaXkpWOR7QxEJZZ6pwQuRkc",
 			
@@ -18,7 +11,7 @@
 			"HireDate": "Date(1612137600000)"
 		},
 		{
-			"Name": "Virinchy Panangipalli",
+			"ClientName": "Virinchy Panangipalli",
 			"JobTitle": "SAP Fiori Consultant",
 			"Photo": "/images/Virinchy_Panangipalli.png",
 			"Icon": "sap-icon://settings",
@@ -26,7 +19,7 @@
 			"HireDate": "Date(1583020800000)"
 		},
 		{
-			"Name": "Virinchy Panangipalli",
+			"ClientName": "Virinchy Panangipalli",
 			"JobTitle": "SAP Fiori / Mobility Lead",
 			"Photo": "/images/Virinchy_Panangipalli.png",
 			"Icon": "sap-icon://monitor-payments",
@@ -34,7 +27,7 @@
 			"HireDate": "Date(1530403200000)"
 		},
 		{
-			"Name": "Virinchy Panangipalli",
+			"ClientName": "Virinchy Panangipalli",
 			"JobTitle": "SAP Fiori Developer",
 			"Photo": "/images/Virinchy_Panangipalli.png",
 			"Icon": "sap-icon://action-settings",
@@ -42,11 +35,11 @@
 			"HireDate": "Date(1475280000000)"
 		},
 		{
-			"Name": "Virinchy Panangipalli",
+			"ClientName": "Wise Men ERP Solutions (SAP Partner)",
 			"JobTitle": "SAP Technical Consultant",
 			"Photo": "/images/Virinchy_Panangipalli.png",
 			"Icon": "sap-icon://technical-object",
-			"JobResponsibilities": "Worked on first S/4HANA implementation by an SAP Partner in Houston for Par Pacific Holdings. Delivered end-to-end custom Fiori applications and SAP Store-certified hybrid solutions.\n\nAchievements:\n- Delivered DKOM'16 session on Fiori and S/4HANA.\n- SAP SCN Member of the Month (Feb 2015).",
+			"JobResponsibilities": "\nGot an oppurtunity to play with the new SAP products like SAP UI5,  wave 1 of 25 Fiori apps and SAP Mobile Platform 3.x \n  Implemented Ui5 and Fiori apps Worked on first S/4HANA implementation by an SAP Partner in Houston for Par Pacific Holdings. \nDelivered end-to-end custom Fiori applications and SAP Store-certified hybrid solutions.\n\nAchievements:\n- Delivered DKOM'16 session on Fiori and S/4HANA.\n- SAP SCN Member of the Month (Feb 2015). \n\n Skills: SAP Ui5 custom development, SMP,Mobile services,  Fiori wave1, SAP Hana DB xs development, S4Hana Fiori Apps implementation Client",
 			"HireDate": "Date(1375315200000)"
 		}
 	]
